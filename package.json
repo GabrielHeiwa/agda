@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsnd --respawn --transpile-only src/"
+    "dev": "tsnd --respawn --transpile-only src/",
+    "ranking": "tsnd --respawn --transpile-only src/ranking.ts"
   },
   "keywords": [],
   "author": "",

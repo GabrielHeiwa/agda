@@ -1,6 +1,5 @@
 import puppeteer from "puppeteer";
 import fs from "node:fs";
-import { queue } from "./bull";
 import { Cluster } from "puppeteer-cluster";
 
 const topics = [
