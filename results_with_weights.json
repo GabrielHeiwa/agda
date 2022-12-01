@@ -1,0 +1,177 @@
+[
+  {
+    "word": "protegido",
+    "quantity": 11,
+    "perc": 0.6274957216200798
+  },
+  {
+    "word": "informado",
+    "quantity": 11,
+    "perc": 0.6274957216200798
+  },
+  {
+    "word": "vida",
+    "quantity": 12,
+    "perc": 0.6845407872219053
+  },
+  {
+    "word": "futuro",
+    "quantity": 13,
+    "perc": 0.7415858528237308
+  },
+  {
+    "word": "capital",
+    "quantity": 13,
+    "perc": 0.7415858528237308
+  },
+  {
+    "word": "população",
+    "quantity": 14,
+    "perc": 0.7986309184255562
+  },
+  {
+    "word": "construção",
+    "quantity": 15,
+    "perc": 0.8556759840273817
+  },
+  {
+    "word": "ranking",
+    "quantity": 16,
+    "perc": 0.9127210496292071
+  },
+  {
+    "word": "gestão",
+    "quantity": 17,
+    "perc": 0.9697661152310325
+  },
+  {
+    "word": "inovação",
+    "quantity": 18,
+    "perc": 1.026811180832858
+  },
+  {
+    "word": "connected",
+    "quantity": 19,
+    "perc": 1.0838562464346835
+  },
+  {
+    "word": "pessoas",
+    "quantity": 19,
+    "perc": 1.0838562464346835
+  },
+  {
+    "word": "camboriú",
+    "quantity": 19,
+    "perc": 1.0838562464346835
+  },
+  {
+    "word": "city",
+    "quantity": 20,
+    "perc": 1.1409013120365088
+  },
+  {
+    "word": "serviços",
+    "quantity": 21,
+    "perc": 1.1979463776383343
+  },
+  {
+    "word": "soluções",
+    "quantity": 22,
+    "perc": 1.2549914432401597
+  },
+  {
+    "word": "dados",
+    "quantity": 22,
+    "perc": 1.2549914432401597
+  },
+  {
+    "word": "segura",
+    "quantity": 24,
+    "perc": 1.3690815744438105
+  },
+  {
+    "word": "política",
+    "quantity": 24,
+    "perc": 1.3690815744438105
+  },
+  {
+    "word": "resultados",
+    "quantity": 27,
+    "perc": 1.540216771249287
+  },
+  {
+    "word": "projeto",
+    "quantity": 29,
+    "perc": 1.6543069024529378
+  },
+  {
+    "word": "cities",
+    "quantity": 29,
+    "perc": 1.6543069024529378
+  },
+  {
+    "word": "balneário",
+    "quantity": 30,
+    "perc": 1.7113519680547633
+  },
+  {
+    "word": "tecnologia",
+    "quantity": 32,
+    "perc": 1.8254420992584142
+  },
+  {
+    "word": "catarinense",
+    "quantity": 37,
+    "perc": 2.110667427267541
+  },
+  {
+    "word": "desenvolvimento",
+    "quantity": 40,
+    "perc": 2.2818026240730176
+  },
+  {
+    "word": "pesquisa",
+    "quantity": 44,
+    "perc": 2.5099828864803193
+  },
+  {
+    "word": "município",
+    "quantity": 44,
+    "perc": 2.5099828864803193
+  },
+  {
+    "word": "smart",
+    "quantity": 51,
+    "perc": 2.9092983456930974
+  },
+  {
+    "word": "flori",
+    "quantity": 53,
+    "perc": 3.0233884768967485
+  },
+  {
+    "word": "brasil",
+    "quantity": 83,
+    "perc": 4.734740444951512
+  },
+  {
+    "word": "catarina",
+    "quantity": 161,
+    "perc": 9.184255561893897
+  },
+  {
+    "word": "santa",
+    "quantity": 189,
+    "perc": 10.781517398745008
+  },
+  {
+    "word": "inteligente",
+    "quantity": 220,
+    "perc": 12.549914432401597
+  },
+  {
+    "word": "cidade",
+    "quantity": 354,
+    "perc": 20.193953223046208
+  }
+]

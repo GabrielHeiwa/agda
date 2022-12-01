@@ -12,12 +12,13 @@ const coresLength = cpus().length;
 const topics = ["Cidades inteligentes em Santa Catarina"];
 const ranking = new Map();
 
+
 async function main() {
 	// INITIALIZATE THE CRAWLERS
 	const browser = await puppeteer.launch({ headless: false });
 	const _cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_CONTEXT,
-		maxConcurrency: coresLength / 2,
+		maxConcurrency: coresLength,
 		// monitor: true,
 		puppeteerOptions: { headless: false },
 	});
@@ -73,19 +74,13 @@ async function main() {
 		});
 
 		if (!content) return;
-
 		const words = content.split(" ");
 		for (const word of words) {
 			const sanitazeWord = word.toLocaleLowerCase().replace(/\W/, "");
-			console.log(sanitazeWord);
-
+			
 			for (const wordRaking of wordsRankingJson) {
-				if (sanitazeWord.includes(wordRaking)) {
+				if (sanitazeWord.includes(wordRaking.word)) {
 					const hasUrl = ranking.get(url) ?? 0;
-					console.log({
-						actualWeight: hasUrl,
-						newWeight: hasUrl + wordRaking.perc,
-					});
 					ranking.set(url, hasUrl + wordRaking.perc);
 				}
 			}
