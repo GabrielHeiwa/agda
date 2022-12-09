@@ -18,8 +18,8 @@ async function main() {
 	const browser = await puppeteer.launch({ headless: false });
 	const _cluster = await Cluster.launch({
 		concurrency: Cluster.CONCURRENCY_CONTEXT,
-		maxConcurrency: 2,
-		monitor: false,
+		maxConcurrency: coresLength,
+		// monitor: true,
 		puppeteerOptions: { headless: false },
 	});
 
@@ -84,13 +84,12 @@ async function main() {
 		console.log(content);
 
 		if (!content) return;
-
 		const words = content.split(" ");
 		for (const word of words) {
 			const sanitazeWord = word.toLocaleLowerCase().replace(/\W/, "");
 
 			for (const wordRaking of wordsRankingJson) {
-				if (sanitazeWord.includes(wordRaking)) {
+				if (sanitazeWord.includes(wordRaking.word)) {
 					const hasUrl = ranking.get(url) ?? 0;
 					ranking.set(url, hasUrl + wordRaking.perc);
 				}
