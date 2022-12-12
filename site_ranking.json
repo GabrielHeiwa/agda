@@ -1,82 +1,482 @@
 [
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.skyscanner.pt&t=h_",
-    "weight": 511.46605818596686
+    "site": "https://www.youtube.com/watch?v=0XexYV7OWpo",
+    "weight": 1.3690815744438105
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:balneariocamboriu.sc.gov.br&t=h_",
-    "weight": 518.9960068454079
+    "site": "http://www.araujosanthos.com.br/br/noticia.php?c=5607",
+    "weight": 2.62407301768397
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.anchieta.sc.gov.br&t=h_",
-    "weight": 535.8813462635482
+    "site": "http://osoldiario.clicrbs.com.br/sc/noticia/2017/06/santa-catarina-tem-quatro-cidades-entre-as-50-mais-inteligentes-e-conectadas-do-brasil-9822197.html",
+    "weight": 22.01939532230462
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:litoralhoje.com.br&t=h_",
-    "weight": 652.3673702224758
+    "site": "https://www.planetsmartcity.com.br/blog/das-50-cidades-mais-inteligentes-do-brasil-quatro-sao-de-santa-catarina/",
+    "weight": 25.613234455219626
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.skyscanner.com.br&t=h_",
-    "weight": 711.2949229891619
+    "site": "https://www.senge-sc.org.br/infraestrutura-para-cidades-inteligentes/",
+    "weight": 94.86594409583572
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:br.linkedin.com&t=h_",
-    "weight": 859.6691386195096
+    "site": "https://leismunicipais.com.br/cidades-por-estado/sc/c",
+    "weight": 123.21734169994296
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:aprova.com.br&t=h_",
-    "weight": 871.5345122646893
+    "site": "https://fapesc.sc.gov.br/11/07/fapesc-comunica-segunda-alteracao-no-cronograma-do-edital-de-chamada-publica-fapesc-no-39-2022-sc-eletrica-programa-de-apoio-a-implantacao-de-living-labs-para-o-estimulo-a-inovacao-em-mobilidade/2022/",
+    "weight": 130.9184255561894
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:umsoplaneta.globo.com&t=h_",
-    "weight": 874.2156303479757
+    "site": "https://fapesc.sc.gov.br/11/08/fapesc-comunica-terceira-alteracao-no-cronograma-do-edital-de-chamada-publica-fapesc-no-39-2022-sc-eletrica-programa-de-apoio-a-implantacao-de-living-labs-para-o-estimulo-a-inovacao-em-mobilidad/2022/",
+    "weight": 130.9184255561894
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.bcnoticias.com.br&t=h_",
-    "weight": 943.6965202509984
+    "site": "https://fapesc.sc.gov.br/09/22/edital-de-chamada-publica-fapesc-no-39-2022-sc-eletrica-programa-de-apoio-a-implantacao-de-living-labs-para-o-estimulo-a-inovacao-em-mobilidade-eletrica-e-cidades-inteligentes-no-estado-de-santa/2022/",
+    "weight": 139.4751853964632
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:negociossc.com.br&t=h_",
-    "weight": 973.702224757559
+    "site": "https://repositorio.ufsc.br/handle/123456789/215414",
+    "weight": 148.71648602395894
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.portaldailha.com.br&t=h_",
-    "weight": 1042.0992584141475
+    "site": "https://www.dm.com.br/cidades/2020/06/florianopolis-ficou-32-dias-sem-mortes-por-covid-19",
+    "weight": 150.42783799201365
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.scielo.br&t=h_",
-    "weight": 1075.014261266401
+    "site": "https://www.gov.br/mdr/pt-br/noticias/cinco-cidades-brasileiras-entram-em-situacao-de-emergencia-devido-a-desastres-naturais",
+    "weight": 151.5116942384484
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.fecam.org.br&t=h_",
-    "weight": 1092.298916143754
+    "site": "https://www.gov.br/mdr/pt-br/noticias/mdr-reconhece-situacao-de-emergencia-em-30-municipios-de-santa-catarina-por-conta-de-chuvas-intensas",
+    "weight": 168.45407872219047
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:scinova.com.br&t=h_",
-    "weight": 1168.8533941814037
+    "site": "https://gust.com/companies/seekat-cidades-inteligentes",
+    "weight": 171.1351968054763
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:engenhariae.com.br&t=h_",
-    "weight": 1193.325727324586
+    "site": "https://www.gov.br/mdr/pt-br/noticias/mais-cinco-cidades-brasileiras-entram-em-situacao-de-emergencia-devido-a-desastres-naturais",
+    "weight": 171.70564746149452
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:acontecendoaqui.com.br&t=h_",
-    "weight": 1271.477467199088
+    "site": "https://sitebarra.com.br/v7/defesa-civil-nacional-reconhece-situacao-de-emergencia-em-mais-148-cidades-do-pais.html",
+    "weight": 174.67199087278948
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.gov.br&t=h_",
-    "weight": 1339.3610952652607
+    "site": "https://1library.org/article/conceito-cidades-inteligentes-sustent%C3%A1veis-rela%C3%A7%C3%A3o-tecnologias-informa%C3%A7%C3%A3o-comunica%C3%A7%C3%A3o.ye94o91q",
+    "weight": 179.52082144894467
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:santacatarinanews.com&t=h_",
-    "weight": 1384.3126069595
+    "site": "https://tisc.com.br/tag/cidades-inteligentes/",
+    "weight": 181.34626354820307
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:www.planetsmartcity.com.br&t=h_",
-    "weight": 1560.6959498003432
+    "site": "https://www.metropoles.com/brasil/veja-lista-das-cidades-de-santa-catarina-onde-pode-nevar",
+    "weight": 184.312606959498
   },
   {
-    "site": "https://duckduckgo.com/?q=Cidades%20inteligentes%20em%20Santa%20Catarina+site:ndmais.com.br&t=h_",
-    "weight": 3069.9372504278435
+    "site": "https://www.youtube.com/watch?v=oW-8ZVlKoDE",
+    "weight": 199.5436394751854
+  },
+  {
+    "site": "https://litoralhoje.com.br/noticias-do-litoral-de-sp/praia-grande/cicoe-e-destaque-em-palestra-sobre-cidades-inteligentes",
+    "weight": 206.90245293782087
+  },
+  {
+    "site": "https://cidades.ibge.gov.br/brasil/sc/painel/panorama",
+    "weight": 209.12721049629207
+  },
+  {
+    "site": "https://www.gov.br/mdr/pt-br/noticias/defesa-civil-nacional-esta-em-santa-catarina-para-auxiliar-municipios-atingidos-por-fortes-chuvas",
+    "weight": 214.60353679406725
+  },
+  {
+    "site": "https://www.cnm.org.br/comunicacao/noticias/chuvas-causam-destruicao-em-municipios-de-santa-catarina-cnm-orienta-gestores",
+    "weight": 220.36508841985167
+  },
+  {
+    "site": "https://www.gov.br/mdr/pt-br/noticias/defesa-civil-nacional-reconhece-situacao-de-emergencia-em-mais-17-cidades-do-pais-1",
+    "weight": 222.5898459783228
+  },
+  {
+    "site": "https://www.sulinfoco.com.br/santa-catarina-tem-11-criancas-super-inteligentes/",
+    "weight": 228.9218482601255
+  },
+  {
+    "site": "https://www.almeidajunior.com.br/pt-br/santa-catarina-tem-cinco-cidades-no-ranking-smart-cities/",
+    "weight": 228.92184826012556
+  },
+  {
+    "site": "https://ocombatente.com/chuvas-levam-cidades-de-santa-catarina-a-decretar-emergencia/",
+    "weight": 233.5995436394752
+  },
+  {
+    "site": "https://www.cidade-brasil.com.br/estado-santa-catarina.html?page=15",
+    "weight": 233.7706788362806
+  },
+  {
+    "site": "https://veja.abril.com.br/brasil/chuvas-levam-cidades-de-santa-catarina-a-decretar-emergencia/",
+    "weight": 254.1357672561324
+  },
+  {
+    "site": "https://www.radiorural.com.br/noticias/49310-peritiba-recebe-premio-band-cidades-excelentes-em-santa-catarina",
+    "weight": 260.52481460353675
+  },
+  {
+    "site": "https://www.vejasc.com.br/noticia/livro-traz-as-pessoas-como-protagonistas-das-cidades-inteligentes",
+    "weight": 260.81003993154593
+  },
+  {
+    "site": "https://portal.uniasselvi.com.br/graduacao/sc/indaial/gestao-de-cidades-inteligentes-e-sustentaveis?modality=ead&place=sociedade-educacional-leonardo-da-vinci-s-s-ltda#!",
+    "weight": 262.8066172276098
+  },
+  {
+    "site": "https://www.correio24horas.com.br/noticia/nid/chuvas-levam-cidades-de-santa-catarina-a-decretar-emergencia/",
+    "weight": 263.1488876212208
+  },
+  {
+    "site": "https://www.cidade-brasil.com.br/estado-santa-catarina.html?page=14",
+    "weight": 271.4204221334853
+  },
+  {
+    "site": "https://www.fecam.org.br/oito-cidades-catarinenses-estao-entre-as-100-mais-inteligentes-do-pais/",
+    "weight": 275.18539646320596
+  },
+  {
+    "site": "https://www.cidade-brasil.com.br/estado-santa-catarina.html?page=10",
+    "weight": 276.89674843126056
+  },
+  {
+    "site": "https://www.gov.br/mdr/pt-br/noticias/defesa-civil-nacional-capacita-gestores-de-cidades-atingidas-por-chuvas-em-santa-catarina-sobre-como-solicitar-recursos-federais",
+    "weight": 283.0576155162578
+  },
+  {
+    "site": "https://jornaldebrasilia.com.br/noticias/brasil/chuvas-levam-cidades-de-santa-catarina-a-decretar-emergencia/",
+    "weight": 307.2447233314319
+  },
+  {
+    "site": "https://www.ipm.com.br/blog/administracao-geral/cidades-inteligentes-mais-10-municipios-de-cinco-estados-adotam-solucao-100-em-nuvem-da-ipm-sistemas/",
+    "weight": 317.2276098117512
+  },
+  {
+    "site": "https://scinova.com.br/qual-o-ponto-de-partida-para-criar-uma-cidade-inteligente/",
+    "weight": 328.12321734169984
+  },
+  {
+    "site": "https://gazetabrasil.com.br/brasil/2022/12/02/chuvas-levam-cidades-de-santa-catarina-a-decretar-emergencia/",
+    "weight": 328.2373074729035
+  },
+  {
+    "site": "https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Santa_Catarina_por_popula%C3%A7%C3%A3o",
+    "weight": 335.596120935539
+  },
+  {
+    "site": "https://hotelrouxinol.com.br/cidades-do-interior-de-santa-catarina/",
+    "weight": 365.0884198516828
+  },
+  {
+    "site": "https://www.deolhonailha.com.br/florianopolis/noticias/cidades-inteligentes-acif-presente-na-smart-city-week-em-barcelona/",
+    "weight": 382.4871648602395
+  },
+  {
+    "site": "https://www.noticenter.com.br/n.php?ID=31842&T=tres-cidades-catarinenses-sao-contempladas-com-o-selo-de-cidade-inteligente-pelo-connected-smart-cities",
+    "weight": 386.30918425556183
+  },
+  {
+    "site": "https://www.uaaau.com.br/imprensa-livre/ararangua-e-a-primeira-cidade-com-medicao-inteligente-de-energia",
+    "weight": 394.23844837421524
+  },
+  {
+    "site": "https://ocp.news/economia/sc-tera-pos-graduacao-inedita-em-cidades-inteligentes",
+    "weight": 397.8893325727323
+  },
+  {
+    "site": "https://repositorio.ufsc.br/handle/123456789/215224",
+    "weight": 400.45636052481467
+  },
+  {
+    "site": "https://www.gazetadopovo.com.br/gazz-conecta/parana-ranking-cidades-inteligentes-2021/",
+    "weight": 402.2247575584711
+  },
+  {
+    "site": "https://ead.unisanta.br/cursos/livre/cidades-inteligente-sustentaveis-12",
+    "weight": 402.7381631488876
+  },
+  {
+    "site": "https://ead.unisanta.br/cursos/posgraduacao/cidades-inteligente-sustentaveis-12",
+    "weight": 402.7381631488876
+  },
+  {
+    "site": "https://rbnfm.com.br/geral/conheca-as-melhores-cidades-de-santa-catarina-para-se-viver/",
+    "weight": 419.68054763262955
+  },
+  {
+    "site": "https://floripamanha.org/2021/09/florianopolis-uma-cidade-inteligente/",
+    "weight": 421.33485453508257
+  },
+  {
+    "site": "https://www.rotadosolitapema.com.br/artigo/4456/8-cidades-brasileiras-para-passar-o-natal-de-2022",
+    "weight": 425.44209925841415
+  },
+  {
+    "site": "https://www.oclif.com.br/itapoa-entre-as-cidades-que-mais-crescem-em-santa-catarina/",
+    "weight": 425.7273245864232
+  },
+  {
+    "site": "https://new.siemens.com/br/pt/digitalizacao/cidades-inteligentes.html",
+    "weight": 426.58300057045045
+  },
+  {
+    "site": "https://floripamanha.org/2022/04/grande-desafio-das-cidades-inteligentes-e-a-inclusao-social-diz-pique/",
+    "weight": 434.68339988590975
+  },
+  {
+    "site": "https://www.imovelmagazine.com.br/mercado-imobiliario/bairro-cidade-inteligente-em-santa-catarina-projeta-boas-praticas-ambientais-sociais-e-de-governanca/",
+    "weight": 441.12949229891603
+  },
+  {
+    "site": "https://santacatarinanews.com/noticias/destaques/bairro-cidade-inteligente-em-santa-catarina-projeta-boas-praticas-ambientais-sociais-e-de-governanca/",
+    "weight": 441.81403308613795
+  },
+  {
+    "site": "https://sortimentos.com/cidades-litoraneas-de-santa-catarina-que-sao-destino-para-as-ferias-de-verao/",
+    "weight": 448.374215630348
+  },
+  {
+    "site": "https://pt.wikipedia.org/wiki/Lista_de_munic%C3%ADpios_de_Santa_Catarina",
+    "weight": 450.54192812321713
+  },
+  {
+    "site": "https://www.unigis.com/pt/cidades-inteligentes-hiper-conectividade-na-ultima-milha/",
+    "weight": 455.96120935539057
+  },
+  {
+    "site": "http://www.portaldailha.com.br/noticias/lernoticia.php?id=44811",
+    "weight": 459.32686822589835
+  },
+  {
+    "site": "https://scinova.com.br/tag/cidades-inteligentes/",
+    "weight": 464.63205932686816
+  },
+  {
+    "site": "https://www.sympla.com.br/evento/forum-de-cidades-digitais-e-inteligentes-da-serra-catarinense/1458594",
+    "weight": 467.54135767256116
+  },
+  {
+    "site": "https://redib.org/Record/oai_articulo3518466-cidades-inteligentes-an%C3%A1lise-de-um-mesoclima-utilizando-a-telegest%C3%A3o-da-ilumina%C3%A7%C3%A3o-p%C3%BAblica-munic%C3%ADpio-de-palho%C3%A7a-santa-catarina--brasil",
+    "weight": 479.5778665145464
+  },
+  {
+    "site": "https://encantosdesantacatarina.com.br/5-cidades-do-sul-catarinense-para-conhecer-e-se-encantar/",
+    "weight": 479.9771819737592
+  },
+  {
+    "site": "https://zilliconstrutora.com.br/blog/maiores-cidades-de-santa-catarina/",
+    "weight": 494.2954934398173
+  },
+  {
+    "site": "https://www.canalideal.com.br/noticia/saiba-quais-cidades-de-santa-catarina-estao-prontas-para-receber-a-tecnologia-5g",
+    "weight": 503.6508841985166
+  },
+  {
+    "site": "https://www.blumenau.sc.gov.br/secretarias/secretaria-de-gestao-governamental/segg/blumenau-ae-uma-das-primeiras-cidades-brasileiras-a-aderir-aa-alianaca-global-de-cidades-inteligentes25",
+    "weight": 525.156873930405
+  },
+  {
+    "site": "https://acontecendoaqui.com.br/empreendedorismo/bairro-cidade-inteligente-em-santa-catarina-torna-se-referencia-em-sustentabilidade/",
+    "weight": 526.8682258984597
+  },
+  {
+    "site": "https://brasscomtecforum.com.br/governo-destinou-quase-r-100-milhoes-para-projetos-de-cidades-inteligentes/",
+    "weight": 527.0393610952651
+  },
+  {
+    "site": "http://www.portaldailha.com.br/noticias/lernoticia.php?id=53845/bairro-cidade-inteligente-em-santa-catarina-projeta-boas-praticas-ambientais-sociais-e-de-governanca",
+    "weight": 545.9783228750712
+  },
+  {
+    "site": "https://fepese.org.br/cidades-inteligentes-entenda-o-que-sao-e-como-funcionam/",
+    "weight": 559.7832287507131
+  },
+  {
+    "site": "https://abii.com.br/o-desafio-da-seguranca-nas-cidades-inteligentes/",
+    "weight": 604.620650313748
+  },
+  {
+    "site": "https://anafisco.org.br/quais-sao-as-3-cidades-mais-inteligentes-do-brasil/",
+    "weight": 610.7244723331432
+  },
+  {
+    "site": "https://engenhariae.com.br/smart-city/das-50-cidades-mais-inteligentes-do-brasil-4-sao-de-santa-catarina",
+    "weight": 618.2544209925841
+  },
+  {
+    "site": "https://www.estadosecidades.com.br/sc/",
+    "weight": 646.4346833998859
+  },
+  {
+    "site": "https://santacatarinanews.com/noticias/destaques/cidades-inteligentes-na-estreia-do-tech-talks-floripa-square/",
+    "weight": 646.4346833998865
+  },
+  {
+    "site": "https://blog.potencialimoveis.com.br/melhores-cidades-para-emprego-em-santa-catarina/",
+    "weight": 649.7432972047917
+  },
+  {
+    "site": "https://fintechbr.com.br/smart-cities-as-10-cidades-mais-inteligentes-do-mundo/",
+    "weight": 654.0787221905306
+  },
+  {
+    "site": "https://evento.connectedsmartcities.com.br/clipping/",
+    "weight": 660.9241300627499
+  },
+  {
+    "site": "https://portal.connectedsmartcities.com.br/2022/10/10/cidade-inteligente-e-empreendedora/",
+    "weight": 713.4626354820309
+  },
+  {
+    "site": "https://scinova.com.br/cidadesinteligentes/",
+    "weight": 725.8414147176268
+  },
+  {
+    "site": "https://hotelrouxinol.com.br/cidades-turisticas-santa-catarina/",
+    "weight": 731.4318311466058
+  },
+  {
+    "site": "https://www.alagoas200.com.br/2022/03/melhores-cidades-de-santa-catarina-para-viver-bem.html",
+    "weight": 734.1699942954933
+  },
+  {
+    "site": "https://scinova.com.br/santa-catarina-no-contexto-das-cidades-inteligentes/",
+    "weight": 747.1762692527099
+  },
+  {
+    "site": "https://www.cidadepedrabranca.com.br/blog/blog-sua-empresa-em-uma-cidade-inteligente/",
+    "weight": 749.6862521391902
+  },
+  {
+    "site": "https://via.ufsc.br/iniciativas-de-cidades-inteligentes/",
+    "weight": 750.7130633200226
+  },
+  {
+    "site": "https://www.ucs.br/site/noticias/cidades-inteligentes-tecnologia-nos-sistemas-urbanos-centrada-nas-pessoas-e-no-bem-estar/",
+    "weight": 769.7090701654308
+  },
+  {
+    "site": "https://www.binarionet.com.br/o-papel-da-infraestrutura-de-ti-nas-cidades-inteligentes/",
+    "weight": 785.1112378779239
+  },
+  {
+    "site": "https://www.alagoas200.com.br/2022/03/quais-sao-as-cidades-mais-seguras-de-santa-catarina-para-morar.html",
+    "weight": 802.4529378208788
+  },
+  {
+    "site": "https://rockcontent.com/br/blog/cidades-inteligentes/",
+    "weight": 866.685681688534
+  },
+  {
+    "site": "https://negociossc.com.br/noticia/santa-catarina-tem-as-3-melhores-cidades-do-brasil/",
+    "weight": 875.6417569880207
+  },
+  {
+    "site": "https://g1.globo.com/sc/santa-catarina/techsc/noticia/2019/11/14/cidades-inteligentes-o-que-sao-e-a-importancia-de-os-municipios-se-adaptarem-a-este-conceito.ghtml",
+    "weight": 877.980604677696
+  },
+  {
+    "site": "https://vejasp.abril.com.br/cidades/artigos-cidades-inteligentes-wilson-levy/",
+    "weight": 881.4033086138049
+  },
+  {
+    "site": "https://www.portaleducadora.com/entretenimento/conheca-oito-cidades-turisticas-para-visitar-em-santa-catarina/",
+    "weight": 885.0541928123217
+  },
+  {
+    "site": "https://sc.movimentoods.org.br/2022/04/11/ods-em-destaque-na-smart-city-expo-curitiba/",
+    "weight": 887.6782658300056
+  },
+  {
+    "site": "https://institutosmartcitizen.com/",
+    "weight": 905.6474614945805
+  },
+  {
+    "site": "https://g1.globo.com/sc/santa-catarina/especial-publicitario/agora-tech-park/agora-tech-park-um-ecossistema-de-conexoes/noticia/2022/03/22/saiba-mais-sobre-as-cidades-inteligentes-e-como-elas-impactam-em-nosso-dia-a-dia.ghtml",
+    "weight": 911.2949229891622
+  },
+  {
+    "site": "https://www.reply.com/br/industries/telco-and-media/5g-smart-cities",
+    "weight": 946.4917284654878
+  },
+  {
+    "site": "https://www.buenasdicas.com/roteiro-santa-catarina-11980/",
+    "weight": 956.6457501426129
+  },
+  {
+    "site": "https://revistasegurancaeletronica.com.br/florianopolis-smart-city/",
+    "weight": 983.8562464346847
+  },
+  {
+    "site": "https://negociossc.com.br/noticia/florianopolis-construindo-a-cidade-inteligente-do-amanha/",
+    "weight": 989.788933257274
+  },
+  {
+    "site": "https://blog.sc.senac.br/inovacao-pode-transformar-realidade-urbana-nas-cidades-inteligentes/",
+    "weight": 1000.7986309184259
+  },
+  {
+    "site": "https://www.pti.org.br/cidades-inteligentes/",
+    "weight": 1035.367940673132
+  },
+  {
+    "site": "https://www.vivendobauru.com.br/quais-as-20-cidades-mais-populosas-de-santa/",
+    "weight": 1152.4814603536797
+  },
+  {
+    "site": "https://politeiacoproducao.com.br/smart-cities-os-caminhos-que-levam-uma-cidade-a-ser-inteligente/",
+    "weight": 1167.3131774101553
+  },
+  {
+    "site": "https://www.orcafascio.com/papodeengenheiro/smart-city/",
+    "weight": 1242.0422133485454
+  },
+  {
+    "site": "https://www.aubicon.com.br/cidades-inteligentes-o-que-sao/",
+    "weight": 1294.5236737022256
+  },
+  {
+    "site": "https://meulugar.quintoandar.com.br/melhores-cidades-de-santa-catarina/",
+    "weight": 1520.422133485455
+  },
+  {
+    "site": "https://aprova.com.br/blog/exemplos-de-cidades-inteligentes/",
+    "weight": 1693.2686822589876
+  },
+  {
+    "site": "https://blog.tracktracerx.com/pt-br/cidades-inteligentes-tecnologia-e-novos-ecossistemas",
+    "weight": 1996.4061608670886
+  },
+  {
+    "site": "https://www.tracktracerx.com/pt-br/cidades-inteligentes-tecnologia-e-novos-ecossistemas/",
+    "weight": 2008.6708499714812
+  },
+  {
+    "site": "https://geosemfronteiras.org/blog/cidades-inteligentes-o-que-e/",
+    "weight": 2239.018824871652
+  },
+  {
+    "site": "https://pt.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)",
+    "weight": 2575.8128921848297
+  },
+  {
+    "site": "https://ci.eco.br/",
+    "weight": 2831.3177410154094
+  },
+  {
+    "site": "https://www.microsoft.com/pt-br/industry/government/resources/smart-cities",
+    "weight": 4084.483742156321
+  },
+  {
+    "site": "https://www.scielo.br/j/urbe/a/3LscvBK8vN86Q3fyFvzx7Fw/",
+    "weight": 5380.148317170564
   }
 ]

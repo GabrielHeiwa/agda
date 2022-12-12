@@ -1,20 +1,20 @@
+const puppeteer = require('puppeteer');
 
-const fs = require("node:fs");
-const new_results = require("./new_results.json");
+(async () => {
+    const browser = await puppeteer.launch({
+        headless: true
+    });
+    const page = (await browser.pages())[0];
+    await page.goto('https://scinova.com.br/santa-catarina-no-contexto-das-cidades-inteligentes/');
+    const extractedText = await page.$eval('*', (el) => {
+        const selection = window.getSelection();
+        const range = document.createRange();
+        range.selectNode(el);
+        selection.removeAllRanges();
+        selection.addRange(range);
+        return window.getSelection().toString();
+    });
+    console.log(extractedText);
 
-const TOTAL = new_results.reduce((prev, el) => prev + el.quantity, 0);
-
-const results_with_weight_words = [];
-
-for (const result of new_results) {
-    const perc = 100 * result.quantity / TOTAL;
-    result.perc = perc;
-
-    results_with_weight_words.push(result)
-}
-
-
-
-fs.writeFileSync("results_with_weights.json", JSON.stringify(results_with_weight_words.sort((a, b) => a.perc - b.perc), null, 2));
-
-
+    await browser.close();
+})();

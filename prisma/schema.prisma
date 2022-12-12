@@ -11,4 +11,5 @@ model Urls {
   id      String  @id @default(uuid())
   url     String  @unique
   checked Boolean
+  score   Float
 }
